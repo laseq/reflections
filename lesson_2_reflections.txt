@@ -1,3 +1,8 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
 A. Git is able to start tracking the files in your repository (after you make a commit). We need to do it for version control.
 
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+A. It's a place where files from the repository are put in to be collectively eligible for commits.
+   It's valuable because it separates what files you want to track together from the files that don't have a logical connection to them.
+
+Q.

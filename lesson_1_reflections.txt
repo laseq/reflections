@@ -24,4 +24,4 @@ How might using version control make you more confident to make changes that cou
 A. You can actually see the changes that you made.
 
 Now that you have your workspace set up, what do you want to try using Git for?
-A. Making commits and hence making my coding experience more satisfying.
+A. Making commits and hence making my coding experience more satisfying
