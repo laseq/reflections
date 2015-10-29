@@ -1,0 +1,27 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A. The sections of code that had differences in them were displayed one after the other making it easy to see the differences.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+A. A programmer will be able to revert to a previous file version if things go haywire in a later file version.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+A. Pros:
+	- You make a commit according to your judgement
+	- You don't risk having a commit made when you haven't finished writing a line of code, or some code that depends on extra code to work.
+	- You won't get a huge number of irrelevant commits
+   Cons:
+	- You might forget to make commits
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+A. Because in coding, code functionality can depend on code from several different files and it's necessary for keep track of all these simultaneous changes.
+   With Google Docs, files don't depend on each other and so multiple files don't need to be saved in one commit.
+
+How can you use the commands git log and git diff to view the history of files?
+A. git log displays the commits that have been made to the repository, starting with the newest and ending with the oldest commits.
+   git diff id1 id2 will display the sections of code that have changed between these two commits so that you can easily identify what changes have taken place.
+
+How might using version control make you more confident to make changes that could break something?
+A. You can actually see the changes that you made.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+A. Making commits and hence making my coding experience more satisfying.

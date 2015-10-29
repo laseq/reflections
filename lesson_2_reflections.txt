@@ -1,0 +1,3 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+A. Git is able to start tracking the files in your repository (after you make a commit). We need to do it for version control.
+
