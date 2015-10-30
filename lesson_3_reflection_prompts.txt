@@ -21,7 +21,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    If changes have been made on the remote that would conflict with your local branch such as master,
+    you could fetch the remote's changes and store it in the local version of the remote, so that you
+    can evaluate the difference between your local master and the local remote master, and make the changes
+    as you see fit.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
